@@ -1,0 +1,7 @@
+module Hooks
+class Hook1
+  def self.give_tip
+    puts "hi"
+  end
+end
+end
