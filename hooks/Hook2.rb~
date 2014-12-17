@@ -1,7 +1,0 @@
-module Hooks
-class Hook2
-  def self.give_tip
-    puts "bye"
-  end
-end
-end
